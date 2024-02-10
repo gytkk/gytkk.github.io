@@ -15,8 +15,7 @@ Data platform 셀에서 Software engineer로 일하며, 데이터를 효율적�
 ### Amazon
 _Vancouver, Canada_
 
-Software Development Engineer | _Oct 2020 ~ A
-Sep 2022_
+Software Development Engineer | _Oct 2020 ~ Sep 2022_
 
 Subscriptions 팀에서 SDE로 일하며, Amazon의 모든 비즈니스(Prime, Kindle, Alexa 등)를 위한 회원 및 구독 정보를 관리하는 플랫폼을 개발하고 운영했습니다.
 
